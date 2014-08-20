@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WixLocalization Culture="bg-bg" Codepage="1251" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+    <String Id="Application">TA Buddy: Desktop</String>
+    <String Id="ApplicationMenu">TA Buddy</String>
+    <String Id="ShortcutApplication">TA Buddy (Desktop)</String>
+    <String Id="ShortcutConsole">TA Buddy (Desktop) - Terminal</String>
+    <String Id="ShortcutREPL">TA Buddy (Desktop) - Scala REPL</String>
+    <String Id="ShortcutDocumentation">TA Buddy - Online Documentation</String>
+    <String Id="ShortcutProject">TA Buddy - Project</String>
+    <String Id="ShortcutIssues">TA Buddy - Issue tracker</String>
+    <String Id="ExitDialogLaunch">Launch !(loc.Application) when setup exits.</String>
+    <String Id="JavaVersion">Java version [JAVAVERSION] found at [JAVAHOME].</String>
+    <String Id="JavaJustRight">Java compatibility confirmed, it may be used with "!(loc.Application)".</String>
+    <String Id="JavaTooOld">This Java is too old. For "!(loc.Application)" to work correctly, you will need to have Java 1.7 or 1.8 installed on your machine.</String>
+    <String Id="JavaTooNew">This Java is newer than the "!(loc.Application)" release you are installing. If you have problems, try looking for a newer "!(loc.Application)" version that supports your Java (or consider Java downgrading).</String>
+</WixLocalization>

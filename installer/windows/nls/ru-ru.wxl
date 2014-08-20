@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WixLocalization Culture="ru-RU" Codepage="1251" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+    <String Id="Application">ТА Дружок: Настольная редакция</String>
+    <String Id="ApplicationMenu">ТА Дружок</String>
+    <String Id="ShortcutApplication">ТА Дружок (Настольная редакция)</String>
+    <String Id="ShortcutConsole">ТА Дружок (Настольная редакция) - Терминал</String>
+    <String Id="ShortcutREPL">ТА Дружок (Настольная редакция) - Скрипт</String>
+    <String Id="ShortcutDocumentation">ТА Дружок - Онлайн документация</String>
+    <String Id="ShortcutProject">ТА Дружок - Проект</String>
+    <String Id="ShortcutIssues">ТА Дружок - Система заявок</String>
+    <String Id="ExitDialogLaunch">Запустить "!(loc.Application)" после завершения установки.</String>
+    <String Id="JavaVersion">Найдена Java версии [JAVAVERSION] в папке [JAVAHOME].</String>
+    <String Id="JavaJustRight">Совместимость виртуальной машины Java подтверждена, эта версия может быть использована с "!(loc.Application)".</String>
+    <String Id="JavaTooOld">Найденая версия Java слишком стара. Для корректной работы "!(loc.Application)" вам необходимо установить Java 1.7 или 1.8.</String>
+    <String Id="JavaTooNew">Эта версия Java новей чем та, которая использовалась при установке "!(loc.Application)". Если у вас будет глючить софт - установите более новую версию "!(loc.Application)" или откатите Java до 1.8.</String>
+</WixLocalization>
