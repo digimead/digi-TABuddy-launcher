@@ -8,6 +8,7 @@
     <String Id="ShortcutDocumentation">ТА Дружок - Онлайн документация</String>
     <String Id="ShortcutProject">ТА Дружок - Проект</String>
     <String Id="ShortcutIssues">ТА Дружок - Система заявок</String>
+    <String Id="ShortcutInfo">ТА Дружок (Настольная редакция) - Информация</String>
     <String Id="ExitDialogLaunch">Запустить "!(loc.Application)" после завершения установки.</String>
     <String Id="JavaVersion">Найдена Java версии [JAVAVERSION] в папке [JAVAHOME].</String>
     <String Id="JavaJustRight">Совместимость виртуальной машины Java подтверждена, эта версия может быть использована с "!(loc.Application)".</String>

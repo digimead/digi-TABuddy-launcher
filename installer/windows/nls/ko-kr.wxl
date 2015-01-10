@@ -8,6 +8,7 @@
     <String Id="ShortcutDocumentation">TA Buddy - Online Documentation</String>
     <String Id="ShortcutProject">TA Buddy - Project</String>
     <String Id="ShortcutIssues">TA Buddy - Issue tracker</String>
+    <String Id="ShortcutInfo">TA Buddy (Desktop) - Information</String>
     <String Id="ExitDialogLaunch">Launch !(loc.Application) when setup exits.</String>
     <String Id="JavaVersion">Java version [JAVAVERSION] found at [JAVAHOME].</String>
     <String Id="JavaJustRight">Java compatibility confirmed, it may be used with "!(loc.Application)".</String>
